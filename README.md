@@ -3,5 +3,6 @@ This is a custom ArcGIS geoprocessing tool used to align administrative boundary
 ## Future enhancements
 - Add an option to opt-out of admin name inheritance
 - Add a secondary approach for filling polygon gaps for users without the Spatial Analyst extension
+- Add pre-run validation in toolbox properties to prevent errors
 - Enhance documentation
 - Explore an open source alterative for non-ArcGIS users
